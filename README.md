@@ -1,6 +1,6 @@
 //Command usage,
 
-create table - used to create table; 
+create table - used to create table
 
 datatypes -int , varchar ,float
 
