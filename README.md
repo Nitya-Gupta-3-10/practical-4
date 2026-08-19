@@ -33,7 +33,7 @@ alter table table_name add constraint unique_phone unique(phone) - used to add c
 alter table table_name drop constraint unique_phone  - used to remove a constraint rom any column of a table
 
 select*from table_name - displays data of a particular table
-
+![image alt](
 select*from table_name where primary_key = desired_value- displays data of a particular row in a table
 
 describe table_name - used to see all the columns with their constraints in a table
